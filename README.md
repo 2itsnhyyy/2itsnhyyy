@@ -63,3 +63,11 @@
 <img src="https://raw.githubusercontent.com/2itsnhyyy/2itsnhyyy/output/snake.svg" alt="Snake animation" />
 
 ###
+#### Top Repositories
+<a href="https://github.com/2itsnhyyy/Website-Project.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2itsnhyyy&repo=github-readme-stats&theme=buefy" />
+</a>
+
+<a href="https://github.com/2itsnhyyy/Website-Project.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2itsnhyyyy&repo=anuraghazra.github.io&theme=buefy" />
+</a>
