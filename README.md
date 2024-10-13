@@ -78,7 +78,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 </tr>
 </table>   
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsnhyyy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thien Nhi's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnhyyy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=2itsnhyyy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thien Nhi's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2itsnhyyy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
