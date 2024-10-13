@@ -2,16 +2,11 @@
 <h3 align="center">A Fullstack Developer, UI-UX Design from VietNam</h3>
 
 <h3>About me: </h3>
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
-
-👨‍💻 All of my projects are available at [**My projects**](https://github.com/pthao207203?tab=repositories)
-
-
 🔭 I'm currently designing and developing a web application for University Exam Score Management in my province.
 
 - 🌱 I’m focusing on enhancing my skills with technologies like Bootstrap, HTML, CSS3, and PHP to build a dynamic and responsive system.
 
-- 👨‍💻 Interested in my work? Check out all of my projects and updates at: [**IE103**](https://github.com/pthao207203/IE103)
+- 👨‍💻 Interested in my work? Check out all of my projects and updates at: [**Website - Project**](https://github.com/2itsnhyyy/Website-Project.git)
 
 <h3>Connect with me:</h3>
 <p align="left">
@@ -77,16 +72,3 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 </td>
 </tr>
 </table>   
-
-#### Top Repositories
-
-
-<a href="https://github.com/2itsnhyyy/Website-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2itsnhyyy&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/2itsnhyyy/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2itsnhyyy&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
