@@ -4,7 +4,7 @@
 <h3>About me: </h3>
 🔭 I'm currently designing and developing a web application for University Exam Score Management in my province.
 
-- 🌱 I’m focusing on enhancing my skills with technologies like Bootstrap, HTML, CSS3, and PHP to build a dynamic and responsive system.
+- 🌱 I’m focusing on enhancing my skills with technologies like HTML, CSS3, JavaScript, ReactJS, React Native to build a dynamic and responsive system.
 
 - 👨‍💻 Interested in my work? Check out all of my projects and updates at: [**Website - Project**](https://github.com/2itsnhyyy/Website-Project.git)
 
