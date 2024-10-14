@@ -65,9 +65,11 @@
 ###
 #### Top Repositories
 <a href="https://github.com/2itsnhyyy/Website-Project.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2itsnhyyy&repo=github-readme-stats&theme=buefy" />
-</a>
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=2itsnhyyy&repo=Website-Project&theme=radical" />
+</a> 
 
-<a href="https://github.com/2itsnhyyy/Website-Project.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2itsnhyyyy&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/2itsnhyyy/IE106---Figma.git">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=2itsnhyyy&repo=Education-Website&theme=merko" />
 </a>
