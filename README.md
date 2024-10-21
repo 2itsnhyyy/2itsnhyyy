@@ -71,3 +71,8 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ryderthieu&repo=SeiSei&theme=radical" />
 </a>
+<a href="https://github.com/2itsnhyyy/cinema-mana.git">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=2itsnhyyy&repo=Cinema-Mana&theme=radical" />
+</a>
+
