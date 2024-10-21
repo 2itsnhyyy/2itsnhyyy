@@ -6,7 +6,7 @@
 
 - 🌱 I’m focusing on enhancing my skills with technologies like HTML, CSS3, JavaScript, ReactJS, React Native to build a dynamic and responsive system.
 
-- 👨‍💻 Interested in my work? Check out all of my projects and updates at: [**Website - Project**](https://github.com/2itsnhyyy/Website-Project.git)
+- 👨‍💻 Interested in my work? Check out all of my projects and updates at: [**Website - Project**](https://github.com/2itsnhyyy/cinema-mana.git)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2itsnhyyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
