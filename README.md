@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Thien Nhi</h1>
+<h1 align="center">Hi<img align="left" height="30" width="30" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"/>, I'm Thien Nhi</h1>
 <h3 align="center">A Fullstack Developer, UI-UX Design from VietNam</h3>
+
+###
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 
 <h3>About me: </h3>
 🔭 I'm currently designing and developing a web application for University Exam Score Management in my province.
@@ -8,6 +11,7 @@
 
 - 👨‍💻 Interested in my work? Check out all of my projects and updates at: [**Website - Project**](https://github.com/2itsnhyyy/cinema-mana.git)
 
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2itsnhyyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2itsnhyyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
@@ -61,24 +65,27 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/2itsnhyyy/2itsnhyyy/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/2itsnhyyy/2itsnhyyy/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
-#### Top Repositories
-<a href="https://github.com/2itsnhyyy/Website-Project.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=2itsnhyyy&repo=Website-Project&theme=radical" />
-</a> 
-<a href="https://github.com/ryderthieu/SeiSei.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ryderthieu&repo=SeiSei&theme=radical" />
-</a>
-<a href="https://github.com/2itsnhyyy/cinema-mana.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=2itsnhyyy&repo=Cinema-Mana&theme=radical" />
-</a>
-<a href="https://github.com/2itsnhyyy/LuckyMoney.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=2itsnhyyy&repo=LuckyMoney&theme=radical" />
-</a>
+<h3>Top Repositories:</h3>
+<div align="center">
+  <a href="https://github.com/2itsnhyyy/Website-Project.git">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=2itsnhyyy&repo=Website-Project&theme=radical" />
+  </a> 
+  <a href="https://github.com/ryderthieu/SeiSei.git">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ryderthieu&repo=SeiSei&theme=radical" />
+  </a>
+  <a href="https://github.com/2itsnhyyy/cinema-mana.git">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=2itsnhyyy&repo=Cinema-Mana&theme=radical" />
+  </a>
+  <a href="https://github.com/2itsnhyyy/LuckyMoney.git">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=2itsnhyyy&repo=LuckyMoney&theme=radical" />
+  </a>
+</div>
