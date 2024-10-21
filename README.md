@@ -5,9 +5,12 @@
 <img align="right" height="200" padding="30" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 <h3>About me: </h3>
-🔭 I'm currently designing and developing a web application for University Exam Score Management in my province.
+🔭  I’m currently learning on UIT Vietnam National
+University University of Information Technology
+Ho Chi Minh, Viet Nam
 
-- 🌱 I’m focusing on enhancing my skills with technologies like HTML, CSS3, JavaScript, ReactJS, React Native to build a dynamic and responsive system.
+- 🌱 I’m focusing on enhancing my skills with technologies like HTML,
+  CSS3, JavaScript, ReactJS, React Native to build a dynamic and responsive system.
 
 - 👨‍💻 Interested in my work? Check out all of my projects and updates at: [**Website - Project**](https://github.com/2itsnhyyy/cinema-mana.git)
 
